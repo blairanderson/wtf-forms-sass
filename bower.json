@@ -1,7 +1,7 @@
 {
   "name": "wtf-forms-sass",
   "description": "Friendlier HTML form controls with a little CSS magic. Moved to a scss file so you can @import it!",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "keywords": [
     "html",
     "css",
