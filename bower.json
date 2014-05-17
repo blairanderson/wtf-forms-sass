@@ -1,6 +1,6 @@
 {
-  "name": "wtf-forms",
-  "description": "Friendlier HTML form controls with a little CSS magic.",
+  "name": "wtf-forms-sass",
+  "description": "Friendlier HTML form controls with a little CSS magic. Moved to a scss file so you can @import it!",
   "version": "2.0.1",
   "keywords": [
     "html",
@@ -8,13 +8,13 @@
     "forms",
     "web"
   ],
-  "homepage": "http://wtfforms.com",
+  "homepage": "http://github.com/blairanderson/wtf-forms",
   "main": [
-    "wtf-forms.css"
+    "wtf-forms.scss"
   ],
   "ignore": [
     ".*",
-    "docs.css",
+    "docs.scss",
     "index.html",
     "font/"
   ]
