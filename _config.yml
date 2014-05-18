@@ -1,7 +1,7 @@
-name:          "WTF, forms?"
+name:          "WTF, forms? (sass)"
 repo:          https://github.com/blairanderson/wtf-forms-sass/
 twitter:       https://twitter.com/blairanderson/
 
 markdown:      redcarpet
 permalink:     pretty
-pygments:      true
+highlighter:   true
