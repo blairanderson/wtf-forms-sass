@@ -8,7 +8,7 @@
     "forms",
     "web"
   ],
-  "homepage": "http://github.com/blairanderson/wtf-forms",
+  "homepage": "http://github.com/blairanderson/wtf-forms-sass",
   "main": [
     "wtf-forms.scss"
   ],
